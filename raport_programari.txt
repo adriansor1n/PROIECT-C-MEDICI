@@ -1,0 +1,19 @@
+========================================
+       RAPORT PROGRAMARI CONSULTATII    
+========================================
+Generat la: 14-05-2026 23:17:04
+----------------------------------------
+
+Total programari: 7
+
+Pacient              Medic                Data            Ora       
+------------------------------------------------------------
+Adrian               Ionescu              26-05-2027      14:00     
+Onofrei              Popescu              15-06-2027      13:00     
+Musuroi Cristian     Popescu              25-07-2026      12:00     
+Denis Pop            Popescu              27-07-2026      12:00     
+Onofrei-Adrian       Popescu              12-12-2026      10:00     
+Onofrei              Ionescu              12-05-2026      14:00     
+Onofrei              Popescu              15-05-2026      10:00     
+
+========================================

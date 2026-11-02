@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1778789545 source:c:\users\adrian\onedrive\desktop\proiectpp\proiect pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
